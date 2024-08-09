@@ -10,12 +10,6 @@ This repository contains a machine learning model for classifying products into 
 - **Comprehensive Documentation:** Includes Jupyter notebooks for EDA and model training.
 
 ## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/Product-Category-Classifier.git
-   cd Product-Category-Classifier
-
 Install dependencies:
 pip install -r requirements.txt
 Usage
